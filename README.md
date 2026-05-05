@@ -26,8 +26,7 @@ This project is an AI-powered recommendation system that suggests relevant items
 
 ## ▶️ How to Run
 
-git clone https://github.com/your-username/ai-recommendation-system.git
-cd ai-recommendation-system
+git clone https://github.com/gautamv009/AI-Recommendation-system
 pip install -r requirements.txt
 python main.py
 
