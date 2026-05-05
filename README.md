@@ -1,2 +1,48 @@
-# AI-Recommendation-system
-AI-based recommendation system that suggests items using content-based filtering and cosine similarity, built with Python and machine learning techniques.
+# 🚀 AI-Based Recommendation System
+
+## 📌 Overview
+
+This project is an AI-powered recommendation system that suggests relevant items using content-based filtering and Cosine Similarity.
+
+---
+
+## 🧠 Features
+
+* Data preprocessing and feature extraction
+* Similarity computation using cosine similarity
+* Top-N item recommendations
+* Clean and modular code structure
+
+---
+
+## 🛠 Tech Stack
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+
+---
+
+## ▶️ How to Run
+
+git clone https://github.com/your-username/ai-recommendation-system.git
+cd ai-recommendation-system
+pip install -r requirements.txt
+python main.py
+
+---
+
+## 📊 Future Improvements
+
+* Hybrid recommendation system
+* Deep learning-based models
+* Web app using Streamlit
+
+---
+
+## 📌 Output
+
+Generates personalized recommendations based on item similarity.
+
+---
